@@ -2,3 +2,7 @@
 *, ::after, ::before {
     box-sizing: unset;
 }
+
+.d-grid {
+    justify-items: center;
+}
